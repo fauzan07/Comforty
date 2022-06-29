@@ -1,0 +1,144 @@
+html {scroll-behavior: smooth;}
+body{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+    /* padding-top: 70px; */
+    line-height: 1.5;
+    background-color: #f8f9fab6;
+}
+
+/* .wrapper{
+    padding-top: 50px;
+}
+
+.main{
+    margin-left: 300px; 
+    padding: 0px 5px;
+} */
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 800;
+    /* line-height: 1.2; */
+    font-family: 'Montserrat', sans-serif;
+    text-transform: none;
+    color: #000;
+}
+h1, .h1 {font-size: 1.9em;}
+h2, .h2 {font-size: 1.7em;}
+h3, .h3 {font-size: 1.5em;}
+h4, .h4 {font-size: 1.12em;}
+h5, h6, .h5, .h6{font-size: 0.9em; }
+
+p,li {color: #666; font-size: 0.9em;}
+a {color: #444; text-decoration: none;  transition: 0.3s;}
+
+.btn-primary{
+    background-color:#1EA8DF;
+    border-color: #1EA8DF;
+}
+
+.btn-primary:hover{
+    background-color: #1EA8DF;
+}
+
+.text-primary{
+    color:#1EA8DF !important;
+}
+
+.btn-outline-primary{
+    color:#1EA8DF;
+    border: 1px solid #1EA8DF;
+    font-size: 0.8em;
+}
+
+.btn-outline-primary:hover{
+    background-color: #1EA8DF;
+}
+
+.banner-text-sec{
+    padding-top: 30%;
+}
+
+.banner-text{
+    font-size: 55px;
+    font-weight: 900;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.discount{
+    position: absolute;
+    top: 26%;
+    left: 82%;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 26px;
+}
+
+.discount h1{
+    color: red;
+}
+
+.slide-card-img{
+    height: 220px;
+    object-fit: cover;
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/*--------footer-area start---------*/
+.footer-area{
+  background-color: #fff;
+} 
+
+.icon-info i{
+    font-size: 20px;
+    color: #000;
+}
+
+.footer-area a{ 
+    color: #000;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.footer-area a:hover{ 
+  color: #1EA8DF;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.footer-bottom p{ 
+    color: #000;
+}
+
+.footer-info p {
+  font-size: 13px;
+  color: #000;
+}
+
+.footer-info li {
+    padding-bottom: 10px;
+    font-size: 13px;
+    color: #000;
+}
+
+.footer-widget h4.widget-title {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 600;
+}
+
+.quick-links{
+  padding-left: 25px;
+}
+
+::placeholder{
+  font-size: 14px;
+}
+
+/*--------footer-area end---------*/

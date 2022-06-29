@@ -1,0 +1,27 @@
+.nav-link{color: #555!important; font-size: 0.8em; font-family: 'Montserrat', sans-serif; font-weight: 500;}
+.nav-link:hover{color: #1EA8DF!important; }
+.bg-color{background: #fff!important; }
+
+.navbar h1 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+}
+
+.login-logo{
+    background-color: #1EA8DF;
+    width: 40px; 
+    height: 40px; 
+    text-transform: capitalize;
+    border-radius: 50%!important;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    text-align: center; 
+}
+
+a.nav-signout{
+    text-decoration: none;
+    cursor: pointer;
+}
+
