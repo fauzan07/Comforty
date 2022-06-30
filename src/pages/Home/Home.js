@@ -25,7 +25,7 @@ function Home(props) {
             </div>
            
             <div className="col-lg-6">
-              <img src={banner} alt="" />
+              <img src={banner} alt="banner-img" className="img-fluid" />
             </div>
             <div className="discount">
                 <h1>54 %</h1>
