@@ -115,13 +115,13 @@ const Navbar=()=> {
                         <a className="nav-link" href="#">Product</a>
                     </li>
                     <li className="nav-item pl-4">
-                        <a className="nav-link">Pages</a>
+                        <a className="nav-link" href="#">Pages</a>
                     </li>
                     <li className="nav-item pl-4">
-                        <a className="nav-link">About</a>
+                        <a className="nav-link" href="#">About</a>
                     </li>
                     <li className="nav-item pl-4">
-                        <a className="nav-link">Contact: (808) 555-0111</a>
+                        <a className="nav-link" href="#">Contact: (808) 555-0111</a>
                     </li>
                 </ul>
                 </div>
