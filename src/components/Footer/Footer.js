@@ -30,8 +30,8 @@ function Footer(props) {
                         </div>
                         <div className="col-lg-2 my-1">
                             <div className="footer-widget footer-info">
-                                <h4 className="widget-title pb-3 quick-links">Category</h4>
-                                <ul className="list-unstyled ml-4">
+                                <h4 className="widget-title pb-3">Category</h4>
+                                <ul className="list-unstyled">
                                     <li><Link to="/">Sofa</Link></li>
                                     <li><Link to="/">Armchair</Link></li>
                                     <li><Link to="/">Wing Chair</Link></li>
